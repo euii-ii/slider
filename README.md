@@ -20,6 +20,7 @@ HTML: Structure of the web pages.
 
 CSS: Styling and animations.
 
+JavaScript: Slide logic and interactivity.
 
 🚀 How to Run the Project
 

@@ -27,7 +27,7 @@ Clone this repository:
 
 bash
 Copy code
-
+https://github.com/euii-ii/slider.git
 git clone
 
 Navigate to the project directory:
